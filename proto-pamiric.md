@@ -1,5 +1,5 @@
 # Phonology
-Proto-Pamiric has a fairly typical phonology for a satem language.
+Proto-Pamiric has a fairly typical phonology for a satem language. Many of the changes are similar to Indo-Iranian and Balto-Slavic, especially satemization, RUKIs, collapse of the PIE _\*o_ _\*a_ distinction, and
 
 | **Consonants** | _Labial_ | _Coronal_ | _Palatal_[^pals] | _Dorsal_ |
 | :------------  | :----: | :-----: | :-----: | :----: |
@@ -17,3 +17,71 @@ Proto-Pamiric has a fairly typical phonology for a satem language.
 [^vasp]: Likely pronounced longer than unaspirated counterparts since they are reflected as geminates in descendant languages.
 [^h-lars]: _\*ḥ_, from PIE _\*h<sub>1</sub>_, has no direct reflexes in descendant languages, but was likely pronounced as \[ɦ\]. On the other hand, _\*ḫ_, from PIE _\*h<sub>2</sub>_ and _\*h<sub>3</sub>_, is preserved word-initially in descendant languages as \[χ\].
 [^pals]: Likely pronounced as palatovelar sibilants and affricates rather than plain palatal plosives and non-sibilant fricatives.
+
+
+## Sound Changes
+
+**Common IE**
+
+
+* Laryngeal coloring
+    * *e > *a / _h<sub>2</sub> / h<sub>2</sub>_ (e.g. _*h<sub>2</sub>éǵros_ > _*h<sub>2</sub>áǵros_ > _*ḫàkras_)
+    * *e > *o / _h<sub>3</sub> / h<sub>3</sub>_ (e.g. _*déh<sub>3</sub>nom_ > _*dóh<sub>3</sub>nom_ > _*tùḫnan_)
+* Szeremenyi’s Law
+* Stang’s Law
+    * *Vwm > *V:m / _# (e.g. _*g<sup>w</sup>ówm_ > _*g<sup>w</sup>ṓm_ > _*ka᷄m_)
+* Pinault’s Law
+    * *H > *∅ / VR_y (e.g. _*h<sub>2</sub>árh<sub>3</sub>yeti_ > _*h<sub>2</sub>áryeti_ > _*ḫáryezi_)
+* Saussure effect
+    * *H > *∅ / oR_C (e.g. _*tórh<sub>1</sub>mos_ > _*tórmos_ > _*túrmas_)
+* Boukolos
+* Sieb’s Law
+    * *B<sup>h</sup> > *P<sup>h</sup> / #s_
+
+**Until 2000 BCE**
+
+
+
+* Bartholomae’s Law
+    * *B<sup>h</sup>P<sup>(h)</sup> > *BB<sup>h</sup> (e.g. _*b<sup>h</sup>udt<sup>h</sup>ós_ > _*b<sup>h</sup>udd<sup>h</sup>ós_ > _*puct<sup>h</sup>ás_)
+* Voicing assimilation
+    * *C > *C[+voice] / _B (e.g. _*nisdós_ > _*nizdós_ > _*ništàs_)
+    * *C > *C[-voice] / _P (e.g. _*sedtós_ > _*settós_ > _*seztás_)
+* Affricates coalesce
+    * *ts *ds *d<sup>h</sup>s > *t<sup>s</sup> *d<sup>z</sup> *d<sup>zh</sup> (e.g. _*h<sub>2</sub>uh<sub>1</sub>énts_ > _*h<sub>2</sub>uh<sub>1</sub>ént<sup>s</sup>_ > _*ḫuḥínz_)
+* Thorn clusters
+    * *TK > *Ks (e.g. _*h<sub>2</sub>ṛ́tḱos_ > _*h<sub>2</sub>ṛ́kšos_ > _*ḫárkšas_)
+    * Front velars neutralized with back velars in thorn clusters
+* Dental clusters
+    * *tt *dd *dd<sup>h</sup> > *t<sup>s</sup>t *d<sup>z</sup>d *d<sup>z</sup>d<sup>h</sup> (e.g. _*wittós_ > _*wit<sup>s</sup>tás_ > _*wictás_)
+* Syllabic resonants
+    * *HṚ > *HəR (e.g. _*h<sub>2</sub>ṃbʰí _> _*h<sub>2</sub>əmbʰí_ > _*ḫamb<sup>h</sup>ì_)
+    * *ṚH > *RəH (e.g. _*pḷh<sub>1</sub>nós_ > _*pləh<sub>1</sub>nós_ > _*pleḥnás_)
+    * *Ṇ > *əN (e.g. _*septṃ́_ > _*septə́m_ > _*septán_)
+    * *Ṛ > *Rə / C_{R, CC} (e.g. _*dṛ́ḱtis_ > _*drə́ḱtis_ > _*dríctiš_)
+    * *Ṛ > *əR (e.g. _*mṛtós_ > _*mərtós_ > _*murtás_)
+* Schwa loss
+    * Laryngeal coloring
+    * *ə > *u / {m, w, Kʷ}_ / _{m, w, Kʷ} (e.g. _*wə́rmis_ > _*wúrmis_ > _*wúrmiš_)
+    * *ə > *i / {i, y}..._ / _...{i, y} (e.g. _*ḱrədyóm_ > _*ḱridyóm_ > _*kridyàn_)
+    * *ə > *a (e.g. _*ḱəmtóm_ > _*ḱamtóm_ > _*cantán_)
+* Nasal assimilation
+    * *n > *m / _{P, B}[+labial] (e.g. _*anb<sup>h</sup>it<sup>s</sup>tós_ > _*amb<sup>h</sup>it<sup>s</sup>tós_ > _*amp<sup>h</sup>ictás_)
+    * *m > *n / _{s, T, K, Ḱ, K<sup>w</sup>, #} (e.g. _*gumtós_ > _*guntós_ > _*guntás_)
+* Grassmann’s Law
+    * *C<sup>h</sup>…C<sup>h</sup> > *C…C<sup>h</sup> (e.g. _	*bʰéwdʰeti_ > _*béwd<sup>h</sup>eti_ > _*pèut<sup>h</sup>ezi_)
+* Tonic raising
+    * *é *ó > *í *ú !/ _{y, w} (e.g. _*nók<sup>w</sup>t<sup>s</sup>_ > _*núk<sup>w</sup>t<sup>s</sup>_ > _*núkc_)
+* Front velar neutralization
+    * *Ḱ > *K / _{s, l, r} (e.g. _*wúǵros_ > _*wúgros_ > _*wúgras_)
+* Dental resonant dissimilation
+    * *T > *K / _{l, n} (e.g. _*putlás_ > _*puklás_ > _*puklás_)
+* Satemization
+    * *K<sup>w</sup> > *K (e.g. _*k<sup>w</sup>ík<sup>w</sup>los_ > _*kíklos_ > _*kíklas_)
+    * *h<sub>3</sub> > *h<sub>2</sub> (e.g. _*píph<sub>3</sub>oti _> _*píph<sub>2</sub>oti_ > _*pìpḫazi_)
+    * *o > *a (e.g. _*h<sub>1</sub>íḱwos_ > _*h<sub>1</sub>íḱwas_ > _*ḥícwas_)
+* Palatalization
+    * *t<sup>(h)</sup>y *d<sup>(h)</sup>y > *t<sup>s(h)</sup> *d<sup>z(h)</sup> (e.g. _*míd<sup>h</sup>yas_ > _*míd<sup>zh</sup>as > *mìc<sup>h</sup>as_)
+    * *Ḱ > *T<sup>Š</sup> (e.g. _*yáǵnás_ > _*yad<sup>ž</sup>nás_ > _*yacnàs_)
+* RUKIs
+    * *S *T<sup>S(h)</sup> > *Š *T<sup>Š(h)</sup> / {r, U, K, I}_ !/ _r (e.g. _*díksinas_ > _*díkšinas _> _*tìkšinas_)
