@@ -25,13 +25,13 @@ Proto-Pamiric has a fairly typical phonology for a satem language. Many of the c
 
 
 * Laryngeal coloring
-    * *e > *a / _h<sub>2</sub> / h<sub>2</sub>_ (e.g. _*h<sub>2</sub>éǵros_ > _*h<sub>2</sub>áǵros_ > _*ḫàkras_)
-    * *e > *o / _h<sub>3</sub> / h<sub>3</sub>_ (e.g. _*déh<sub>3</sub>nom_ > _*dóh<sub>3</sub>nom_ > _*tùḫnan_)
+    * *e > *a / _h<sub>2</sub> / h<sub>2</sub>_ (e.g. _*h<sub>2</sub>éǵros_ > _*h<sub>2</sub>áǵros_ > _*ḫágras_)
+    * *e > *o / _h<sub>3</sub> / h<sub>3</sub>_ (e.g. _*déh<sub>3</sub>nom_ > _*dóh<sub>3</sub>nom_ > _*dúḫnan_)
 * Szeremenyi’s Law
 * Stang’s Law
-    * *Vwm > *V:m / _# (e.g. _*g<sup>w</sup>ówm_ > _*g<sup>w</sup>ṓm_ > _*ka᷄m_)
+    * *Vwm > *V:m / _# (e.g. _*g<sup>w</sup>ówm_ > _*g<sup>w</sup>ṓm_ > _*gā́m_)
 * Pinault’s Law
-    * *H > *∅ / VR_y (e.g. _*h<sub>2</sub>árh<sub>3</sub>yeti_ > _*h<sub>2</sub>áryeti_ > _*ḫáryezi_)
+    * *H > *∅ / VR_y (e.g. _*h<sub>2</sub>árh<sub>3</sub>yeti_ > _*h<sub>2</sub>áryeti_ > _*ḫáryeti_)
 * Saussure effect
     * *H > *∅ / oR_C (e.g. _*tórh<sub>1</sub>mos_ > _*tórmos_ > _*túrmas_)
 * Boukolos
@@ -45,7 +45,7 @@ Proto-Pamiric has a fairly typical phonology for a satem language. Many of the c
 * Bartholomae’s Law
     * *B<sup>h</sup>P<sup>(h)</sup> > *BB<sup>h</sup> (e.g. _*b<sup>h</sup>udt<sup>h</sup>ós_ > _*b<sup>h</sup>udd<sup>h</sup>ós_ > _*puct<sup>h</sup>ás_)
 * Voicing assimilation
-    * *C > *C[+voice] / _B (e.g. _*nisdós_ > _*nizdós_ > _*ništàs_)
+    * *C > *C[+voice] / _B (e.g. _*nisdós_ > _*nizdós_ > _*niždás_)
     * *C > *C[-voice] / _P (e.g. _*sedtós_ > _*settós_ > _*seztás_)
 * Affricates coalesce
     * *ts *ds *d<sup>h</sup>s > *t<sup>s</sup> *d<sup>z</sup> *d<sup>zh</sup> (e.g. _*h<sub>2</sub>uh<sub>1</sub>énts_ > _*h<sub>2</sub>uh<sub>1</sub>ént<sup>s</sup>_ > _*ḫuḥínz_)
@@ -55,7 +55,7 @@ Proto-Pamiric has a fairly typical phonology for a satem language. Many of the c
 * Dental clusters
     * *tt *dd *dd<sup>h</sup> > *t<sup>s</sup>t *d<sup>z</sup>d *d<sup>z</sup>d<sup>h</sup> (e.g. _*wittós_ > _*wit<sup>s</sup>tás_ > _*wictás_)
 * Syllabic resonants
-    * *HṚ > *HəR (e.g. _*h<sub>2</sub>ṃbʰí _> _*h<sub>2</sub>əmbʰí_ > _*ḫamb<sup>h</sup>ì_)
+    * *HṚ > *HəR (e.g. _*h<sub>2</sub>ṃbʰí _> _*h<sub>2</sub>əmbʰí_ > _*ḫamb<sup>h</sup>í_)
     * *ṚH > *RəH (e.g. _*pḷh<sub>1</sub>nós_ > _*pləh<sub>1</sub>nós_ > _*pleḥnás_)
     * *Ṇ > *əN (e.g. _*septṃ́_ > _*septə́m_ > _*septán_)
     * *Ṛ > *Rə / C_{R, CC} (e.g. _*dṛ́ḱtis_ > _*drə́ḱtis_ > _*dríctiš_)
@@ -63,25 +63,26 @@ Proto-Pamiric has a fairly typical phonology for a satem language. Many of the c
 * Schwa loss
     * Laryngeal coloring
     * *ə > *u / {m, w, Kʷ}_ / _{m, w, Kʷ} (e.g. _*wə́rmis_ > _*wúrmis_ > _*wúrmiš_)
-    * *ə > *i / {i, y}..._ / _...{i, y} (e.g. _*ḱrədyóm_ > _*ḱridyóm_ > _*kridyàn_)
+    * *ə > *i / {i, y}..._ / _...{i, y} (e.g. _*ḱrədyóm_ > _*ḱridyóm_ > _*kridyán_)
     * *ə > *a (e.g. _*ḱəmtóm_ > _*ḱamtóm_ > _*cantán_)
 * Nasal assimilation
     * *n > *m / _{P, B}[+labial] (e.g. _*anb<sup>h</sup>it<sup>s</sup>tós_ > _*amb<sup>h</sup>it<sup>s</sup>tós_ > _*amp<sup>h</sup>ictás_)
     * *m > *n / _{s, T, K, Ḱ, K<sup>w</sup>, #} (e.g. _*gumtós_ > _*guntós_ > _*guntás_)
 * Grassmann’s Law
-    * *C<sup>h</sup>…C<sup>h</sup> > *C…C<sup>h</sup> (e.g. _	*bʰéwdʰeti_ > _*béwd<sup>h</sup>eti_ > _*pèut<sup>h</sup>ezi_)
+    * *C<sup>h</sup>…C<sup>h</sup> > *C…C<sup>h</sup> (e.g. _	*bʰéwdʰeti_ > _*béwd<sup>h</sup>eti_ > _*béud<sup>h</sup>eti_)
 * Tonic raising
-    * *é *ó > *í *ú !/ _{y, w} (e.g. _*nók<sup>w</sup>t<sup>s</sup>_ > _*núk<sup>w</sup>t<sup>s</sup>_ > _*núkc_)
+    * *é *ó > *í *ú !/ _{y, w} (e.g. _*nók<sup>w</sup>t<sup>s</sup>_ > _*núk<sup>w</sup>t<sup>s</sup>_ > _*núkc_)[^ton-r]
 * Front velar neutralization
     * *Ḱ > *K / _{s, l, r} (e.g. _*wúǵros_ > _*wúgros_ > _*wúgras_)
 * Dental resonant dissimilation
     * *T > *K / _{l, n} (e.g. _*putlás_ > _*puklás_ > _*puklás_)
 * Satemization
     * *K<sup>w</sup> > *K (e.g. _*k<sup>w</sup>ík<sup>w</sup>los_ > _*kíklos_ > _*kíklas_)
-    * *h<sub>3</sub> > *h<sub>2</sub> (e.g. _*píph<sub>3</sub>oti _> _*píph<sub>2</sub>oti_ > _*pìpḫazi_)
+    * *h<sub>3</sub> > *h<sub>2</sub> (e.g. _*píph<sub>3</sub>oti_ > _*píph<sub>2</sub>oti_ > _*pìbḫati_)
     * *o > *a (e.g. _*h<sub>1</sub>íḱwos_ > _*h<sub>1</sub>íḱwas_ > _*ḥícwas_)
 * Palatalization
-    * *t<sup>(h)</sup>y *d<sup>(h)</sup>y > *t<sup>s(h)</sup> *d<sup>z(h)</sup> (e.g. _*míd<sup>h</sup>yas_ > _*míd<sup>zh</sup>as > *mìc<sup>h</sup>as_)
-    * *Ḱ > *T<sup>Š</sup> (e.g. _*yáǵnás_ > _*yad<sup>ž</sup>nás_ > _*yacnàs_)
+    * *Ḱ > *T<sup>Š</sup> (e.g. _*yaǵnás_ > _*yad<sup>ž</sup>nás_ > _*yajnás_)
 * RUKIs
-    * *S *T<sup>S(h)</sup> > *Š *T<sup>Š(h)</sup> / {r, U, K, I}_ !/ _r (e.g. _*díksinas_ > _*díkšinas _> _*tìkšinas_)
+    * *S *T<sup>S(h)</sup> > *Š *T<sup>Š(h)</sup> / {r, U, K, I}_ !/ _r (e.g. _*díksinas_ > _*díkšinas _> _*díkšinas_)
+
+  [^ton-r]: The change likely had different manifestations in different dialects because there are some forms where expected raising does not occur and unexpected raising does (cf. _*méd<sup>h</sup>u_, _*dáru_, _*jánu_ as opposed to _**míd<sup>h</sup>u_, _**dúru_, _**júnu_). It is posited that the change did not affect final syllables in the main dialect because the former o-stem nouns uniformly end in _*a_, as opposed to _*u_.
