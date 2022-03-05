@@ -21,32 +21,45 @@ Proto-Pamiric has a fairly typical phonology for a satem language. Many of the c
 
 ## Sound Changes
 
-**Common IE**
+### Correspondences
 
 
-* Laryngeal coloring
-    * *e > *a / _h<sub>2</sub> / h<sub>2</sub>_ (e.g. _*h<sub>2</sub>éǵros_ > _*h<sub>2</sub>áǵros_ > _*ḫágras_)
-    * *e > *o / _h<sub>3</sub> / h<sub>3</sub>_ (e.g. _*déh<sub>3</sub>nom_ > _*dóh<sub>3</sub>nom_ > _*dúḫnan_)
-* Szeremenyi’s Law
-* Stang’s Law
-    * *Vwm > *V:m / _# (e.g. _*g<sup>w</sup>ówm_ > _*g<sup>w</sup>ṓm_ > _*gā́m_)
-* Pinault’s Law
-    * *H > *∅ / VR_y (e.g. _*h<sub>2</sub>árh<sub>3</sub>yeti_ > _*h<sub>2</sub>áryeti_ > _*ḫáryeti_)
-* Saussure effect
-    * *H > *∅ / oR_C (e.g. _*tórh<sub>1</sub>mos_ > _*tórmos_ > _*túrmas_)
-* Boukolos
-* Sieb’s Law
-    * *B<sup>h</sup> > *P<sup>h</sup> / #s_
+### Changes in Common IE
+The period of IE before the disintegration of the dialect continuum into distinct languages is known as Common IE. During this era, PIE underwent major sound changes, such as the various IE sound laws, and grammatical remodeling, such as the emergence of the feminine gender or simplification of nominal ablaut.
 
-**Until 2000 BCE**
+One of the first changes within Common IE was the coloring of _*e_ by _*h<sub>2</sub>_ _*h<sub>3</sub>_ into _*a_ _*o_. This change is so archaic that it can be observed even in the Anatolian branch, which split even before the Common IE period. It operated as a surface filter until Proto-Charian.
+
+* \*e > \*a / \_h<sub>2</sub> / h<sub>2</sub>\_ (e.g. _*h<sub>2</sub>éǵros_ > _*h<sub>2</sub>áǵros_ > _*ḫájras_)
+* \*e > \*o / \_h<sub>3</sub> / h<sub>3</sub>\_ (e.g. _*déh<sub>3</sub>nom_ > _*dóh<sub>3</sub>nom_ > _*dúḫnan_)
+
+Laryngeals were deleted on a large scale through Pinault's Law and the Saussure effect. This is evident in the inflectional paradigms of affected words.
+
+* \*H > \*∅ / VR\_y (e.g. _*h<sub>2</sub>árh<sub>3</sub>yeti_ > _*h<sub>2</sub>áryeti_ > _*ḫáryeti_)
+* \*H > \*∅ / oR\_C (e.g. _*tórh<sub>1</sub>mos_ > _*tórmos_ > _*túrmas_)
+
+Consonant clusters also underwent changes. Obstruent clusters regressively assimilated in voice. Aspirated plosives lost their aspiration if followed by an unaspirated plosive. If there were multiple aspirates in the same cluster, the whole cluster would become aspirated.
+
+* \*P \*s > \*B \*z / \_B (e.g. _*nisdós_ > _*nizdós_ > _*niždás_)
+* \*B > \*P / \_{P, s} (e.g. _*bʰah<sub>2</sub>gtós_ > _*bʰah<sub>2</sub>któs_ > _*bʰaḫktás_)
+* \*C<sup>h</sup>C<sup>h</sup> > \*CC<sup>h</sup> (e.g. _*d<sup>h</sup>ǵ<sup>h</sup>yés_ > _\*dǵ<sup>h</sup>yés_ > _\*dj<sup>h</sup>yíš_)
+* \*P<sup>h</sup> \*B<sup>h</sup> > \*P \*B / \_{P, B} (e.g. _*b<sup>h</sup>ut<sup>h</sup>tós_ > _*b<sup>h</sup>uttós_ > _*but<sup>s</sup>tás_)
+
+Dental clusters ejected a _\*s_ between the elements. 
+
+Stang's and Szeremenyi's Laws were both early laws that also affected inflectional paradigms. Szeremenyi's Law became analogized to all consonant-stem nouns; even ones that did not lose any consonants gained a long vowel in the nominative singular. Similarly, lost consonants were analogized back in a few cases.
+
+* \*Vwm > \*V:m / \_# (e.g. _*g<sup>w</sup>ówm_ > _*g<sup>w</sup>ṓm_ > _*gā́n_)
+
+The _boukolos_ rule was another early surface filter that prompted the loss of the labial quality of labiovelars when before or after _*u_ _*w_. However, the labiovelars would have lost their labial quality due to later satemization, but we still posit that the _boukolos_ rule was productive because it was present most, if not all, other branches.
+
+* \*K<sup>w</sup> > \*K / {u, w}\_ / \_{u, w} (e.g. _*g<sup>w</sup>owk<sup>w</sup>ólos_ > _*g<sup>w</sup>owkólos_ > _*gaukúlas_)
+
+Sieb’s Law created the series of voiceless aspirates. While the paucity of such forms makes it hard to determine, it is likely that it not only affected s-mobile roots, but all cases of initial _*s_.
+
+* \*B<sup>h</sup> > \*P<sup>h</sup> / #s\_ (e.g. _*sg<sup>h</sup>rénd<sup>h</sup>is_ > _*sk<sup>h</sup>rénd<sup>h</sup>is_ > _*sk<sup>h</sup>rínd<sup>h</sup>iš_)
 
 
 
-* Bartholomae’s Law
-    * *B<sup>h</sup>P<sup>(h)</sup> > *BB<sup>h</sup> (e.g. _*b<sup>h</sup>udt<sup>h</sup>ós_ > _*b<sup>h</sup>udd<sup>h</sup>ós_ > _*puct<sup>h</sup>ás_)
-* Voicing assimilation
-    * *C > *C[+voice] / _B (e.g. _*nisdós_ > _*nizdós_ > _*niždás_)
-    * *C > *C[-voice] / _P (e.g. _*sedtós_ > _*settós_ > _*seztás_)
 * Affricates coalesce
     * *ts *ds *d<sup>h</sup>s > *t<sup>s</sup> *d<sup>z</sup> *d<sup>zh</sup> (e.g. _*h<sub>2</sub>uh<sub>1</sub>énts_ > _*h<sub>2</sub>uh<sub>1</sub>ént<sup>s</sup>_ > _*ḫuḥínz_)
 * Thorn clusters
@@ -73,7 +86,7 @@ Proto-Pamiric has a fairly typical phonology for a satem language. Many of the c
 * Tonic raising
     * *é *ó > *í *ú !/ _{y, w} (e.g. _*nók<sup>w</sup>t<sup>s</sup>_ > _*núk<sup>w</sup>t<sup>s</sup>_ > _*núkc_)[^ton-r]
 * Front velar neutralization
-    * *Ḱ > *K / _{s, l, r} (e.g. _*wúǵros_ > _*wúgros_ > _*wúgras_)
+    * *Ḱ > *K / _{s, l, r, n} (e.g. _*wúǵros_ > _*wúgros_ > _*wúgras_)
 * Dental resonant dissimilation
     * *T > *K / _{l, n} (e.g. _*putlás_ > _*puklás_ > _*puklás_)
 * Satemization
