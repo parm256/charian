@@ -15,4 +15,4 @@ Proto-Pamiric has a fairly typical phonology for a satem language.
 | _Low_ | *e *ē | *a *ā |
 
 [^vasp]: Likely pronounced longer than unaspirated counterparts since they are reflected as geminates in descendant languages.
-[^h-lars]: _\*ḥ_, from PIE _\*h<sub>1</sub>_, has no direct reflexes in descendant languages, but was likely pronounced as \[ɦ\]. On the other hand, _\*ḫ_, from PIE _\*h<sub>2</sub>_ and _\*h<sub>3</sub>_, is preserved word-initially in descendant languages.
+[^h-lars]: _\*ḥ_, from PIE _\*h<sub>1</sub>_, has no direct reflexes in descendant languages, but was likely pronounced as \[ɦ\]. On the other hand, _\*ḫ_, from PIE _\*h<sub>2</sub>_ and _\*h<sub>3</sub>_, is preserved word-initially in descendant languages as \[χ\].
