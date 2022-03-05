@@ -1,7 +1,7 @@
 # Phonology
 Proto-Pamiric has a fairly typical phonology for a satem language.
 
-| **Consonants** | _Labial_ | _Coronal_ | _Palatal_ | _Dorsal_ |
+| **Consonants** | _Labial_ | _Coronal_ | _Palatal_[^pals] | _Dorsal_ |
 | :------------  | :----: | :-----: | :-----: | :----: |
 | _Nasal_ | *m | *n |
 | _Plosives (unaspirated)_ | *p *b | *t *d | *c *j | *k *g |
@@ -16,3 +16,4 @@ Proto-Pamiric has a fairly typical phonology for a satem language.
 
 [^vasp]: Likely pronounced longer than unaspirated counterparts since they are reflected as geminates in descendant languages.
 [^h-lars]: _\*ḥ_, from PIE _\*h<sub>1</sub>_, has no direct reflexes in descendant languages, but was likely pronounced as \[ɦ\]. On the other hand, _\*ḫ_, from PIE _\*h<sub>2</sub>_ and _\*h<sub>3</sub>_, is preserved word-initially in descendant languages as \[χ\].
+[^pals]: Likely pronounced as palatovelar sibilants and affricates rather than plain palatal plosives and non-sibilant fricatives.
