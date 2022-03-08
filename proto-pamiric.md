@@ -37,6 +37,10 @@ Laryngeals were deleted on a large scale through Pinault's Law and the Saussure 
 * \*H > \*∅ / VR\_y (e.g. _*h<sub>2</sub>árh<sub>3</sub>yeti_ > _*h<sub>2</sub>áryeti_ > _*ḫáryeti_)
 * \*H > \*∅ / oR\_C (e.g. _*tórh<sub>1</sub>mos_ > _*tórmos_ > _*túrmas_)
 
+Sieb’s Law created the series of voiceless aspirates. While the paucity of such forms makes it hard to determine, it is likely that it not only affected s-mobile roots, but all cases of initial _*s_.
+
+* \*B<sup>h</sup> > \*P<sup>h</sup> / #s\_ (e.g. _*sg<sup>h</sup>rénd<sup>h</sup>is_ > _*sk<sup>h</sup>rénd<sup>h</sup>is_ > _*sk<sup>h</sup>rínd<sup>h</sup>iš_)
+
 Consonant clusters also underwent changes. Obstruent clusters regressively assimilated in voice. Aspirated plosives lost their aspiration if followed by an unaspirated plosive. If there were multiple aspirates in the same cluster, the whole cluster would become aspirated. Dental clusters ejected a _\*s_ between the elements, which was later reduced.
 
 * \*P \*s > \*B \*z / \_B (e.g. _*nisdós_ > _*nizdós_ > _*niždás_)
@@ -55,10 +59,6 @@ The _boukolos_ rule was another early surface filter that prompted the loss of t
 
 * \*K<sup>w</sup> > \*K / {u, w}\_ / \_{u, w} (e.g. _*g<sup>w</sup>owk<sup>w</sup>ólos_ > _*g<sup>w</sup>owkólos_ > _*gaukúlas_)
 
-Sieb’s Law created the series of voiceless aspirates. While the paucity of such forms makes it hard to determine, it is likely that it not only affected s-mobile roots, but all cases of initial _*s_.
-
-* \*B<sup>h</sup> > \*P<sup>h</sup> / #s\_ (e.g. _*sg<sup>h</sup>rénd<sup>h</sup>is_ > _*sk<sup>h</sup>rénd<sup>h</sup>is_ > _*sk<sup>h</sup>rínd<sup>h</sup>iš_)
-
 The Common IE phase for Charian lasts roughly from 3500 BCE to 2900 BCE, give or take a few centuries. The changes that occurred during this time applied in some way or another to most of IE, save for Anatolian and Tocharian.
 
 ### Syllabic resonants and vowel shifts
@@ -76,28 +76,36 @@ This schwa was quickly lost due to various coloring process. The schwa is first 
 * \*ə > \*i / {i, y}...\_ / \_...{i, y} (e.g. _*ḱrədyóm_ > _*ḱridyóm_ > _*cridyán_)
 * \*ə > \*a (e.g. _*ḱəmtóm_ > _*ḱamtóm_ > _*cantán_)
 
-Another vowel change was the process of tonic raising, where _*é_ _*ó_ raised to _*í_ _*ú_ in certain environments. However, this change was notoriously inconsistent, with tons of dialectal and local variations in its operation. For example, High Charian _méddu_, _jánu_, and _dáru_ are attested in place of expected _**míddu_, _**júnu_, and _**dúru_. High Charian also likely prevented it in some final syllables, due to _-ás_ being continued from _*-ós_, instead of _**-úš_. Overall, the change exposes a failure of the traditional tree model in describing language evolution. Nonetheless, we will reconstruct according to the High Charian reflex, if one is present, else we will reconstruct it based off any surviving reflexes.
+Another vowel change was the process of tonic raising, where _*é_ _*ó_ raised to _*í_ _*ú_ in certain environments. However, this change was notoriously inconsistent, with tons of dialectal and local variations in its operation. For example, High Charian _méddu_, _jánu_, and _dáru_ are attested in place of expected _**míddu_, _**júnu_, and _**dúru_. High Charian also likely prevented it in some final syllables, due to _-ás_ being continued from _*-ós_, instead of _**-úš_.
 
 * \*é \*ó > \*í \*ú !/ \_{y, w} (e.g. _*móri_ > _*múri_ > _*múri_)
 
-### Consonant adjustments
-The nasal consonants are assimilated according to the following
-* Nasal assimilation
-    * *n > *m / _{P, B}[+labial] (e.g. _*anb<sup>h</sup>it<sup>s</sup>tós_ > _*amb<sup>h</sup>it<sup>s</sup>tós_ > _*amp<sup>h</sup>ictás_)
-    * *m > *n / _{s, T, K, Ḱ, K<sup>w</sup>, #} (e.g. _*gumtós_ > _*guntós_ > _*guntás_)
-* Grassmann’s Law
-    * *C<sup>h</sup>…C<sup>h</sup> > *C…C<sup>h</sup> (e.g. _	*bʰéwdʰeti_ > _*béwd<sup>h</sup>eti_ > _*béud<sup>h</sup>eti_)
-* Tonic raising
-    * *é *ó > *í *ú !/ _{y, w} (e.g. _*nók<sup>w</sup>t<sup>s</sup>_ > _*núk<sup>w</sup>t<sup>s</sup>_ > _*núkc_)[^ton-r]
-* Front velar neutralization
-    * *Ḱ > *K / _{s, l, r, n} (e.g. _*wúǵros_ > _*wúgros_ > _*wúgras_)
-* Dental resonant dissimilation
-    * *T > *K / _{l, n} (e.g. _*putlás_ > _*puklás_ > _*puklás_)
-* Satemization
-    * *K<sup>w</sup> > *K (e.g. _*k<sup>w</sup>ík<sup>w</sup>los_ > _*kíklos_ > _*kíklas_)
-    * *h<sub>3</sub> > *h<sub>2</sub> (e.g. _*píph<sub>3</sub>oti_ > _*píph<sub>2</sub>oti_ > _*pìbḫati_)
-    * *o > *a (e.g. _*h<sub>1</sub>íḱwos_ > _*h<sub>1</sub>íḱwas_ > _*ḥícwas_)
-* Palatalization
-    * *Ḱ > *T<sup>Š</sup> (e.g. _*yaǵnás_ > _*yad<sup>ž</sup>nás_ > _*yajnás_)
-* RUKIs
-    * *S *T<sup>S(h)</sup> > *Š *T<sup>Š(h)</sup> / {r, U, K, I}_ !/ _r (e.g. _*díksinas_ > _*díkšinas _> _*díkšinas_)
+Overall, the change shows that the development of Charian was far from uniform and had many variations within. The inconsistency of the reflexes in High Charian is likely due to its origin as a semi-formalized vernacular dialect which happened to adopt some variants over others.
+
+### Consonant adjustments and satemization
+The nasal consonants are assimilated to the following consonant sounds. _*n_ likely had allophones for other places of articulation.
+
+* \*n > \*m / \_{P, B}[+labial] (e.g. _*anb<sup>h</sup>it<sup>s</sup>tós_ > _*amb<sup>h</sup>it<sup>s</sup>tós_ > _*amb<sup>h</sup>it<sup>s</sup>tás_)
+* \*m > \*n / \_{s, T, K, Ḱ, K<sup>w</sup>, #} (e.g. _*gumtós_ > _*guntós_ > _*guntás_)
+
+Much like in Greek and Sanskrit, Grassmann's Law operated as a surface filter that caused aspirates to lose their aspiration when another aspirate was present in the word, causing consonant alternation in roots that have aspirates in them.
+
+* \*C<sup>h</sup>…C<sup>h</sup> > \*C…C<sup>h</sup> (e.g. _*bʰéwdʰeti_ > _*béwd<sup>h</sup>eti_ > _*béud<sup>h</sup>eti_)
+
+Also, there were environments
+
+* \*l > \*r / T_ (e.g. _*putlós_ > _*putrós_ > _*putrás_)
+
+Charian holds satemization in common with Indo-Iranian, Balto-Slavic, Armenian, and Albanian on some accounts. Three changes happened over a similar timeframe: the merger of labiovelars with back velars, the merger of _*h<sub>2</sub>_ with _*h<sub>3</sub>_, and the merger of _*a_ with _*o_. Balto-Slavic, Armenian, and Indo-Iranian merged _*a_ with _*o_, but Armenian does not and Germanic, a centum branch, does.
+
+* \*K<sup>w</sup> > \*K (e.g. _*k<sup>w</sup>ík<sup>w</sup>los_ > _*kíklos_ > _*kíklas_)
+* \*o > \*a (e.g. _*h<sub>1</sub>ícwos_ > _*h<sub>1</sub>ícwas_ > _*ḥícwas_)
+
+Similarly, the merger of laryngeals is attested in Indo-Iranian and Balto-Slavic where the laryngeals have no different reflexes beyond vowel coloring. However, Armenian seemingly merges _*h<sub>2</sub>_ with _*h<sub>3</sub>_, which is reflected as an initial _h_, while _*h<sub>1</sub>_ is completely lost, according to Martirosyan, which is similar to Charian.
+
+* \*h<sub>3</sub> > \*h<sub>2</sub> (e.g. _*píbh<sub>3</sub>ati_ > _*píbh<sub>2</sub>ati_ > _*píbḫati_)
+
+Other palatalizing changes occurred during this time. Satemization was likely a chain shift of back velars becoming regular velars, labiovelars losing their labialization, and the front velars becoming palatalized. The _RUKIs_ rule also operated in Charian, which retracts _*s_ when after velars, high vowels, semivowels, and _*r_. Notably, as in Sanskrit, _RUKIs_ was blocked in the case of _*sr_.
+
+* \*ḱ<sup>(h)</sup> \*ǵ<sup>(h)</sup> > \*c<sup>(h)</sup> \*j<sup>(h)</sup> (e.g. _*yaǵnás_ > _*yajnás_ > _*yajnás_)
+* \*S > \*Š / {r, U, K, I}\_ !/ \_r (e.g. _*h<sub>2</sub>áwsās_ > _*h<sub>2</sub>áwšās_ > _*ḫáušās_)
