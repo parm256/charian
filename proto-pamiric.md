@@ -1,18 +1,106 @@
 # Phonology
 Proto-Pamiric has a fairly typical phonology for a satem language. Many of the changes are similar to Indo-Iranian and Balto-Slavic, especially satemization, RUKIs, collapse of the PIE _\*o_ _\*a_ distinction, and
 
-| **Consonants** | _Labial_ | _Coronal_ | _Palatal_[^pals] | _Dorsal_ |
-| :------------  | :----: | :-----: | :-----: | :----: |
-| _Nasal_ | *m | *n |
-| _Plosives (unaspirated)_ | *p *b | *t *d | *c *j | *k *g |
-| _Plosives (aspirated)_[^vasp] | *p<sup>h</sup> *b<sup>h</sup> | *t<sup>h</sup> *d<sup>h</sup> | *c<sup>h</sup> *j<sup>h</sup> | *k<sup>h</sup> *g<sup>h</sup> |
-| _Fricatives_ | | *s *z | *š *ž | *ḫ *ḥ[^h-lars] |
-| _Liquids_ | *w | *r *l | *y | (*w) |
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg .tg-lboi{border-color:inherit;text-align:left;vertical-align:middle}
+.tg .tg-wa9f{border-color:inherit;font-style:italic;text-align:left;vertical-align:middle}
+.tg .tg-9wq8{border-color:inherit;text-align:center;vertical-align:middle}
+.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
+.tg .tg-f8tv{border-color:inherit;font-style:italic;text-align:left;vertical-align:top}
+@media screen and (max-width: 767px) {.tg {width: auto !important;}.tg col {width: auto !important;}.tg-wrap {overflow-x: auto;-webkit-overflow-scrolling: touch;margin: auto 0px;}}</style>
+<div class="tg-wrap"><table class="tg">
+<thead>
+  <tr>
+    <th class="tg-lboi">Consonants</span></th>
+    <th class="tg-9wq8" colspan="2"><span style="font-style:italic">Labial</span></th>
+    <th class="tg-9wq8" colspan="2"><span style="font-style:italic">Coronal</span></th>
+    <th class="tg-9wq8" colspan="2"><span style="font-style:italic">Palatal</span></th>
+    <th class="tg-9wq8" colspan="2"><span style="font-style:italic">Dorsal</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-f8tv">Nasals</td>
+    <td class="tg-c3ow" colspan="2">*m</td>
+    <td class="tg-c3ow" colspan="2">*n</td>
+    <td class="tg-c3ow" colspan="2"></td>
+    <td class="tg-c3ow" colspan="2"></td>
+  </tr>
+  <tr>
+    <td class="tg-wa9f" rowspan="2">Plosives</td>
+    <td class="tg-9wq8">*p</td>
+    <td class="tg-9wq8">*b</td>
+    <td class="tg-9wq8">*t</td>
+    <td class="tg-9wq8">*d</td>
+    <td class="tg-9wq8">*c</td>
+    <td class="tg-9wq8">*j</td>
+    <td class="tg-9wq8">*k</td>
+    <td class="tg-9wq8">*g</td>
+  </tr>
+  <tr>
+    <td class="tg-9wq8">*p<sup>h</sup></td>
+    <td class="tg-9wq8">*b<sup>h</sup></td>
+    <td class="tg-9wq8">*t<sup>h</sup></td>
+    <td class="tg-9wq8">*d<sup>h</sup></td>
+    <td class="tg-9wq8">*c<sup>h</sup></td>
+    <td class="tg-9wq8">*j<sup>h</sup></td>
+    <td class="tg-9wq8">*k<sup>h</sup></td>
+    <td class="tg-9wq8">*g<sup>h</sup></td>
+  </tr>
+  <tr>
+    <td class="tg-wa9f">Fricatives</td>
+    <td class="tg-9wq8" colspan="2"></td>
+    <td class="tg-9wq8">*s</td>
+    <td class="tg-9wq8">*z</td>
+    <td class="tg-9wq8">*š</td>
+    <td class="tg-9wq8">*ž</td>
+    <td class="tg-9wq8">*ḫ</td>
+    <td class="tg-9wq8">*ḥ</td>
+  </tr>
+  <tr>
+    <td class="tg-wa9f"><span style="font-style:italic">Liquids</span></td>
+    <td class="tg-9wq8" colspan="2">*w</td>
+    <td class="tg-9wq8">*l</td>
+    <td class="tg-9wq8">*r</td>
+    <td class="tg-9wq8" colspan="2">*y</td>
+    <td class="tg-9wq8" colspan="2"></td>
+  </tr>
+</tbody>
+</table></div>
 
-| **Vowels** | _Front_ | _Back_ |
-| :- | :-: | :-: |
-| _High_ | *i *ī | *u *ū |
-| _Low_ | *e *ē | *a *ā |
+<style type="text/css">
+.tg2  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg2 .tg2-lboi{border-color:inherit;text-align:left;vertical-align:middle}
+.tg2 .tg2-wa9f{border-color:inherit;font-style:italic;text-align:left;vertical-align:middle}
+.tg2 .tg2-9wq8{border-color:inherit;text-align:center;vertical-align:middle}
+@media screen and (max-width: 767px) {.tg2 {width: auto !important;}.tg2 col {width: auto !important;}.tg2-wrap {overflow-x: auto;-webkit-overflow-scrolling: touch;margin: auto 0px;}}</style>
+<div class="tg2-wrap"><table class="tg2">
+<thead>
+  <tr>
+    <th class="tg2-lboi"><span style="font-weight:bold">Vowels</span></th>
+    <th class="tg2-9wq8" colspan="2"><span style="font-style:italic">Front</span></th>
+    <th class="tg2-9wq8" colspan="2"><span style="font-style:italic">Back</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg2-wa9f">High</td>
+    <td class="tg2-9wq8">*i</td>
+    <td class="tg2-9wq8">*ī</td>
+    <td class="tg2-9wq8">*u</td>
+    <td class="tg2-9wq8">*ū</td>
+  </tr>
+  <tr>
+    <td class="tg2-wa9f"><span style="font-style:italic">Low</span></td>
+    <td class="tg2-9wq8">*e</td>
+    <td class="tg2-9wq8">*ē</td>
+    <td class="tg2-9wq8">*a</td>
+    <td class="tg2-9wq8">*ā</td>
+  </tr>
+</tbody>
+</table></div>
 
 [^vasp]: Likely pronounced longer than unaspirated counterparts since they are reflected as geminates in descendant languages.
 [^h-lars]: _\*ḥ_, from PIE _\*h<sub>1</sub>_, has no direct reflexes in descendant languages, but was likely pronounced as \[ɦ\]. On the other hand, _\*ḫ_, from PIE _\*h<sub>2</sub>_ and _\*h<sub>3</sub>_, is preserved word-initially in descendant languages as \[χ\].
@@ -22,7 +110,6 @@ Proto-Pamiric has a fairly typical phonology for a satem language. Many of the c
 ## Sound Changes
 
 ### Correspondences
-
 
 ### Changes in Common IE
 The period of IE before the disintegration of the dialect continuum into distinct languages is known as Common IE. During this era, PIE underwent major sound changes, such as the various IE sound laws, and grammatical remodeling, such as the emergence of the feminine gender or simplification of nominal ablaut.
