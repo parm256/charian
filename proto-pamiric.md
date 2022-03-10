@@ -49,8 +49,6 @@ Consonant clusters also underwent changes. Obstruent clusters regressively assim
 * \*P<sup>h</sup> \*B<sup>h</sup> > \*P \*B / \_{P, B} (e.g. _*b<sup>h</sup>ut<sup>h</sup>tós_ > _*b<sup>h</sup>uttós_ > _*b<sup>h</sup>ut<sup>s</sup>tás_)
 * \*tt<sup>(h)</sup> \*dd<sup>(h)</sup> > \*t<sup>s</sup>t<sup>(h)</sup> \*d<sup>z</sup>d<sup>(h)</sup> (e.g. _\*wittós_ > _*wit<sup>s</sup>tós_ > _*wit<sup>s</sup>tás_)
 
-Exceptionally, thorn clusters were not originally lenited or metathesized, much like Sanskrit. Rather, they were continued into Proto-Charian as dental-palatal clusters. Later on, they shifted into velar palatal clusters where the palatal element lenited into its corresponding fricative, e.g. _*tḱitós_ > _*tcitás_ > _kšitás_. Parallels can be found with labial-palatal clusters, cf. _*pḱuwénts_ > _*pcuwénts_ > _pšuvénts_.
-
 Stang's and Szeremenyi's Laws were both early laws that also affected inflectional paradigms. Szeremenyi's Law became analogized to all consonant-stem nouns; even ones that did not lose any consonants gained a long vowel in the nominative singular. Similarly, lost consonants were analogized back in a few cases.
 
 * \*Vwm > \*V:m / \_# (e.g. _*g<sup>w</sup>ówm_ > _*g<sup>w</sup>ṓm_ > _*gā́n_)
@@ -109,3 +107,7 @@ Other palatalizing changes occurred during this time. Satemization was likely a 
 
 * \*ḱ<sup>(h)</sup> \*ǵ<sup>(h)</sup> > \*c<sup>(h)</sup> \*j<sup>(h)</sup> (e.g. _*yaǵnás_ > _*yajnás_ > _*yajnás_)
 * \*S > \*Š / {r, U, K, I}\_ !/ \_r (e.g. _*h<sub>2</sub>áwsās_ > _*h<sub>2</sub>áwšās_ > _*ḫáušās_)
+
+Exceptionally, thorn clusters were not originally lenited or metathesized, much like Sanskrit. Rather, they were continued into Proto-Charian as dental-palatal clusters. In High Charian, they shifted into velar-palatal clusters where the palatal element lenited into its corresponding fricative, e.g. _*tḱitós_ > _*tcitás_ > _kšitás_. Parallels can be found with labial-palatal clusters, cf. _*pḱuwénts_ > _*pcuwénts_ > _pšuvénts_.
+
+* \*K > \*J / {P, T}\_ (e.g. _*dg<sup>h</sup>ítiš_ > _*dj<sup>h</sup>ítiš_ > _*dj<sup>h</sup>ítiš_)
