@@ -61,13 +61,6 @@ Proto-Pamiric has a fairly typical phonology for a satem language. Many of the c
 </tbody>
 </table></div>
 
-<style type="text/css">
-.tg2  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg2 .tg2-lboi{border-color:inherit;text-align:left;vertical-align:middle}
-.tg2 .tg2-wa9f{border-color:inherit;font-style:italic;text-align:left;vertical-align:middle}
-.tg2 .tg2-9wq8{border-color:inherit;text-align:center;vertical-align:middle}
-@media screen and (max-width: 767px) {.tg2 {width: auto !important;}.tg2 col {width: auto !important;}.tg2-wrap {overflow-x: auto;-webkit-overflow-scrolling: touch;margin: auto 0px;}}</style>
 <div class="tg2-wrap"><table class="tg2">
 <thead>
   <tr>
