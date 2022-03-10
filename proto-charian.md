@@ -127,7 +127,7 @@ Stang's and Szeremenyi's Laws were both early laws that also affected inflection
 
 The _boukolos_ rule was another early surface filter that prompted the loss of the labial quality of labiovelars when before or after _*u_ _*w_. However, the labiovelars would have lost their labial quality due to later satemization, but we still posit that the _boukolos_ rule was productive because it was present in most, if not all, other branches.
 
-* \*K<sup>w</sup> > \*K / {u, w}\_ / \_{u, w} (e.g. _*g<sup>w</sup>owk<sup>w</sup>ólos_ > _*g<sup>w</sup>owkólos_ > _*gaukúlas_)
+* \*K<sup>w</sup> > \*K / {u, w}\_ / \_{u, w} (e.g. _*éwewk<sup>w</sup>et_ > _*éwewket_ > _*íweuket_)
 
 The Common IE phase for Charian lasts roughly from 3500 BCE to 2900 BCE, give or take a few centuries. The changes that occurred during this time applied in some way or another to most of IE, save for Anatolian and Tocharian.
 
@@ -183,3 +183,44 @@ Other palatalizing changes occurred during this time. Satemization was likely a 
 Exceptionally, thorn clusters were not originally lenited or metathesized, much like Sanskrit. Rather, they were continued into Proto-Charian as dental-palatal clusters. In High Charian, they shifted into velar-palatal clusters where the palatal element lenited into its corresponding fricative, e.g. _*tḱitós_ > _*tcitás_ > _kšitás_. Parallels can be found with labial-palatal clusters, cf. _*pḱuwénts_ > _*pcuwénts_ > _pšuvénts_.
 
 * \*K > \*J / {P, T}\_ (e.g. _*dg<sup>h</sup>ítiš_ > _*dj<sup>h</sup>ítiš_ > _*dj<sup>h</sup>ítiš_)
+
+### Final changes
+Vowel-semivowel clusters coalesce into diphthongs
+
+* \*Vw > \*Vu !/ \_V (e.g. _*leláyket_ > _*leláiket_ > _*leláiket_)
+
+Also, _*h<sub>1</sub>_ _*h<sub>2</sub>_ are written as _*ḥ_ _*ḫ_.
+
+# Nominal Morphology
+
+## Gender
+
+## Case and Number
+
+## Pronouns
+
+## Numerals
+
+### one
+
+The term for ‘one’ in Proto-Charian was likely _*áiwas_, declined as a thematic adjective, yielding High Charian _ḗvas_. Notably, it carried on PIE _*Hóywos_, like Greek _οἶος_ or Avestan _aēva_, instead of from more common _*Hóynos_, (cf. Latin _ūnus_, Greek _οἴνη_, Celtic _*oinos_, Germanic _*ainaz_) or from _*Hóykos_ (cf. Sanskrit _éka_). The lack of a laryngeal in the later form suggests that the PIE form could have been _\*\*h<sub>1</sub>óywos_, yielding _\*\*ḥáiwas_.
+
+The combining form of ‘one’ was _*sam-_ from PIE _*sṃ-_, yielding _sam-_, cognate with Latin _sem-_, Greek _ἁ-_ and _εἷς_, and Sanskrit _sa-_.
+
+The ordinal ‘first’ was _*prawás_ from PIE _*pro-wós_, yielding _*právas_, declined as a thematic adjective. Greek _πρῶτος_, Latin _prīmus_, and Sanskrit _prathamá_ are likely related in some way, but from different formations. The term was derived from the preposition _*pro_, reflected as _*pra-_ ~ _*prú_ in Charian, which has the meaning of 'forwards', suggesting that the ordinal shifted from the meaning of 'foremost' to simply 'first'.
+
+### two
+The term for ‘two’ in Proto-Charian was _*dwáḥ_ from PIE _*dwóh<sub>1</sub>_, yielding High Charian _dvā́_. Predictably, the term was declined as a thematic adjective, but only in the dual. The term is cognate with Latin _duo_, Greek _δύο_, Sanskrit _dvá_, and English _two_. Notably, it did not carry on _*dúwoh<sub>1</sub>_ as Greek did.
+
+The combining form was _*dwi-_, yielding _*dvi-_, cognate with Latin _bi-_, Greek _δι-_, and Sanskrit _dvi-_.
+
+The ordinal 'second' was _*dwityás_ from PIE _*dwi-ty-ós_, yielding _*dvityás_. Another term _*ḫánteras_, from PIE _*h<sub>2</sub>énteros_ was used specifically to mention the second out of two, rather than the second out of many.
+
+### three
+The term for 'three' in Proto-Charian was _*tríyes_ from PIE _*tréyes_, yielding High Charian _*trī́š_.
+
+## Adjectives
+
+## Vowel-Stems
+
+## Consonant-Stems
