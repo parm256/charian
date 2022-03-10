@@ -1,14 +1,6 @@
 # Phonology
 Proto-Pamiric has a fairly typical phonology for a satem language. Many of the changes are similar to Indo-Iranian and Balto-Slavic, especially satemization, RUKIs, collapse of the PIE _\*o_ _\*a_ distinction, and
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
-.tg .tg-lboi{border-color:inherit;text-align:left;vertical-align:middle}
-.tg .tg-wa9f{border-color:inherit;font-style:italic;text-align:left;vertical-align:middle}
-.tg .tg-9wq8{border-color:inherit;text-align:center;vertical-align:middle}
-.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
-.tg .tg-f8tv{border-color:inherit;font-style:italic;text-align:left;vertical-align:top}
-@media screen and (max-width: 767px) {.tg {width: auto !important;}.tg col {width: auto !important;}.tg-wrap {overflow-x: auto;-webkit-overflow-scrolling: touch;margin: auto 0px;}}</style>
 <div class="tg-wrap"><table class="tg">
 <thead>
   <tr>
