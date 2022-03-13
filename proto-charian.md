@@ -1,5 +1,5 @@
 # Phonology
-Proto-Pamiric has a fairly typical phonology for a satem language. Many of the changes are similar to Indo-Iranian and Balto-Slavic, especially satemization, RUKIs, collapse of the PIE _\*o_ _\*a_ distinction, and
+Proto-Charian has a fairly typical phonology for a satem language. Many of the changes are similar to Indo-Iranian and Balto-Slavic, especially satemization, RUKIs, collapse of the PIE _\*o_ _\*a_ distinction, and
 
 <div class="tg-wrap"><table class="tg">
 <thead>
@@ -193,6 +193,7 @@ Also, _*h<sub>1</sub>_ _*h<sub>2</sub>_ are written as _*ḥ_ _*ḫ_.
 
 # Nominal Morphology
 
+
 ## Gender
 
 ## Case and Number
@@ -214,13 +215,24 @@ The term for ‘two’ in Proto-Charian was _*dwáḥ_ from PIE _*dwóh<sub>1</s
 
 The combining form was _*dwi-_, yielding _*dvi-_, cognate with Latin _bi-_, Greek _δι-_, and Sanskrit _dvi-_.
 
-The ordinal 'second' was _*dwityás_ from PIE _*dwi-ty-ós_, yielding _*dvityás_. Another term _*ḫánteras_, from PIE _*h<sub>2</sub>énteros_ was used specifically to mention the second out of two, rather than the second out of many.
+The ordinal 'second' was _*dwitás_ from PIE _*dwi-tós_, yielding _*dvitás_. Another term _*ḫánteras_, from PIE _*h<sub>2</sub>énteros_ was used specifically to mention the second out of two, rather than the second out of many.
 
 ### three
-The term for 'three' in Proto-Charian was _*tríyes_ from PIE _*tréyes_, yielding High Charian _*trī́š_.
+The term for 'three' in Proto-Charian was _*tríyes_ from PIE _*tréyes_, yielding High Charian _*trîš_, which declined as an i-stem. The term is cognate with Latin _trēs_, Greek _τρεῖς_, Sanskrit _tráya_, and English _three_.
+
+The combining form was _*tri-_, cognate with Latin _tri-_, Greek _τρι-_, and Sanskrit _tri-_.
+
+The ordinal form was _*tritás_, from PIE _*tritós_, yielding _tritás_.
+
+### four
+The term for 'four' in Proto-Charian was _*ketwúres_ from PIE _*k<sup>w</sup>etwóres_, yielding High Charian _*ketū́res_, which declined as a consonant stem. The term is cognate with Latin _quattuor_, Greek _
+
+The combining form was _*_
+
+### Cardinals
 
 ## Adjectives
 
-## Vowel-Stems
+## Vowel stems
 
-## Consonant-Stems
+## Consonant stems
